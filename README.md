@@ -6,7 +6,7 @@ Feel free to add you examples here.
 
 Be sure that the complete code is shared and no company specific artefacts are used.
 
-## Combinations
+## /src/combinations
 
 there is an object that can have three different levels of visibility:
  - display -> VISIBLE_ALWAYS
