@@ -4,7 +4,10 @@ The intent of this repository is to collect different examples of ABAP unit test
 
 Feel free to add you examples here.
 
-Be sure that the complete code is shared and no company specific artefacts are used.
+:rainbow: Please note :teddy_bear:
+- Be sure that the complete code is shared and no company specific artefacts are used.
+- create a new sub package to $autex and assign your code to this package
+
 
 ## /src/combinations
 
