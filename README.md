@@ -9,9 +9,9 @@ Be sure that the complete code is shared and no company specific artefacts are u
 ## Combinations
 
 there is an object that can have three different levels of visibility:
- - displayed                   -> VISIBLE_ALWAYS
- - displayed only in overview  -> VISIBLE_OVERVIEW
- - hidden                      -> VISIBLE_NEVER
+ - display -> VISIBLE_ALWAYS
+ - display only in overview -> VISIBLE_OVERVIEW
+ - hide -> VISIBLE_NEVER
 
 there is customizing that defines the "view level" for a general view and for a specific view this function returns the option that needs to be used for displaying the object.
 
