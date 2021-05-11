@@ -1,5 +1,7 @@
 # ABAP unit tests by example
 
+![logo](https://github.com/Ennowulff/abap-unit-tests-by-example/blob/807414bdcd54f768c5158a7035a46cf76565a421/img/ABAP%20Unit%20Test%20by%20Example%20Logo.png)
+
 The intent of this repository is to collect different examples of ABAP unit tests.
 
 Feel free to add you examples here.
