@@ -4,6 +4,8 @@
 
 The intent of this repository is to collect different examples of ABAP unit tests.
 
+inspired by blog post [Unit Tests in an SAP customer environment](https://answers.sap.com/articles/13361225/unit-tests-in-an-sap-customer-environment.html)
+
 Feel free to add you examples here.
 
 :rainbow: Please note :teddy_bear:
@@ -25,3 +27,7 @@ if the general option allows "display in overview" but the specific setting is "
 
 _example 2:_
 if the general option allows "overview" but the specific setting is "always" then the specific option cannot overrule the general option because it would grant more visibility what is not allowed and therfore returns the general option
+
+## /src/selections
+
+Example by Matthew Billingham
