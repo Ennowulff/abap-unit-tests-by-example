@@ -31,3 +31,9 @@ if the general option allows "overview" but the specific setting is "always" the
 ## /src/selections
 
 Example by Matthew Billingham
+
+## /src/simple_xml
+
+Test of simple post-processing of an XML-output.
+Method ca->create_response_head transforms a given structure into xml and makes some adaptions to pass to PI system.
+Contains simple Unit tests for different output.
