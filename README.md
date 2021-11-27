@@ -12,6 +12,13 @@ Feel free to add you examples here.
 - Be sure that the complete code is shared and no company specific artefacts are used.
 - create a new sub package to $autex and assign your code to this package
 
+# further reading
+- SAP documentation [Cosntructor Dependency Injection](https://help.sap.com/saphelp_em900/helpdata/en/7a/c48b5babaa4874ab5f3bccb5411981/content.htm?no_cache=true)
+- sample chapter of Paul Hardys "ABAP To The Future": [ABAP Unit and Test-Driven
+Development](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4751/reading_sample_sappress_1761_abaptothefuture.pdf)
+
+# Examples
+
 
 ## /src/combinations
 
