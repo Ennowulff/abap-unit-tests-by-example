@@ -17,6 +17,11 @@ Feel free to add you examples here.
 - sample chapter of Paul Hardys "ABAP To The Future": [ABAP Unit and Test-Driven
 Development](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4751/reading_sample_sappress_1761_abaptothefuture.pdf)
 
+# Other examples
+
+* https://github.com/hapejot/abapDI
+* https://github.com/RainerWinkler/ABAP-Unit-Test-Demo
+
 # Examples
 
 
