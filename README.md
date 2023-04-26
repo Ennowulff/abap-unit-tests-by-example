@@ -18,7 +18,7 @@ Feel free to add you examples here.
 Development](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4751/reading_sample_sappress_1761_abaptothefuture.pdf)
 
 # Test frameworks
-* https://github.com/hapejot/abapDI
+* [abapDI](https://github.com/hapejot/abapDI) - dependency injection container for ABAP
 
 # Other example-repositories
 * https://github.com/RainerWinkler/ABAP-Unit-Test-Demo
