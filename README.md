@@ -17,10 +17,15 @@ Feel free to add you examples here.
 - sample chapter of Paul Hardys "ABAP To The Future": [ABAP Unit and Test-Driven
 Development](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4751/reading_sample_sappress_1761_abaptothefuture.pdf)
 
-# Other examples
-
+# Test frameworks
 * https://github.com/hapejot/abapDI
+
+# Other example-repositories
 * https://github.com/RainerWinkler/ABAP-Unit-Test-Demo
+
+# Public repositiores with ABAP-based solutions that use unit tests
+* [abapgit](https://github.com/abapGit/abapGit) - Uses real BDD-style unittests
+* [RESULT for ABAP](https://github.com/dominikpanzer/RESULT-for-ABAP) - implemented stepwise via TDD
 
 # Examples
 
