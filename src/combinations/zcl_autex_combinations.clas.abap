@@ -1,23 +1,23 @@
-class ZCL_AUTEX_COMBINATIONS definition
-  public
-  final
-  create public .
+CLASS zcl_autex_combinations DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
+  PUBLIC SECTION.
 
-  types:
-    _option TYPE c LENGTH 1 .
+    TYPES:
+      _option TYPE c LENGTH 1 .
 
-  constants VISIBLE_ALWAYS type _OPTION value 'X' ##NO_TEXT.
-  constants VISIBLE_NEVER type _OPTION value 'N' ##NO_TEXT.
-  constants VISIBLE_OVERVIEW type _OPTION value 'O' ##NO_TEXT.
+    CONSTANTS visible_always TYPE _option VALUE 'X' ##NO_TEXT.
+    CONSTANTS visible_never TYPE _option VALUE 'N' ##NO_TEXT.
+    CONSTANTS visible_overview TYPE _option VALUE 'O' ##NO_TEXT.
 
-  methods CHECK_COMBINATION
-    importing
-      !OPTION_GENERAL type _OPTION
-      !OPTION_SPECIFIC type _OPTION
-    returning
-      value(OPTION_VALID) type _OPTION .
+    METHODS check_combination
+      IMPORTING
+        !option_general     TYPE _option
+        !option_specific    TYPE _option
+      RETURNING
+        VALUE(option_valid) TYPE _option .
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
